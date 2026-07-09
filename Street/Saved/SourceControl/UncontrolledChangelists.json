@@ -12,7 +12,12 @@
 				"D:/UE_Projects/TestStreet/Street/Street/Content/__ExternalActors__/Street/L_Road/0/EM/7TWEPNX8CRDQ3RXQS92RXV.uasset",
 				"D:/UE_Projects/TestStreet/Street/Street/Content/Street/L_Road.umap",
 				"D:/UE_Projects/TestStreet/Street/Street/Content/Road/Mesh/SM_Street.uasset",
-				"D:/UE_Projects/TestStreet/Street/Street/Content/__ExternalActors__/Street/L_Road/3/D7/XCSFT5MADWSMLWP4QN989Y.uasset"
+				"D:/UE_Projects/TestStreet/Street/Street/Content/__ExternalActors__/Street/L_Road/3/D7/XCSFT5MADWSMLWP4QN989Y.uasset",
+				"D:/UE_Projects/TestStreet/Street/Street/Content/Road/Texture/KB3D_Roads_Diffuse.uasset",
+				"D:/UE_Projects/TestStreet/Street/Street/Content/Road/Material/M_MasterRoad.uasset",
+				"C:/UnrealEngine/UE_5.5/Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uasset",
+				"D:/UE_Projects/TestStreet/Street/Street/Content/Road/Material/MI_BykeRoad.uasset",
+				"D:/UE_Projects/TestStreet/Street/Street/Content/Road/Material/MI_BikeRoad.uasset"
 			]
 		}
 	]
