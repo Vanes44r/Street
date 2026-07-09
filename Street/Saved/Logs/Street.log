@@ -1799,3 +1799,90 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.09-04.34.43:900][319]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2026.07.09-04.34.43:900][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.07.09-04.34.43:932][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.07.09-04.36.51:431][399]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.07.09-04.36.51:431][399]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.07.09-04.36.54:296][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.09-04.36.54:348][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Road/Mesh/SM_Street] ([1] browsable assets)...
+[2026.07.09-04.36.54:390][508]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Road/Mesh/SM_Street.SM_Street]
+[2026.07.09-04.36.54:390][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/Road/Mesh/SM_Street]
+[2026.07.09-04.36.54:390][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Mesh/SM_Street" FILE="D:/UE_Projects/TestStreet/Street/Street/Content/Road/Mesh/SM_Street.uasset" SILENT=true
+[2026.07.09-04.36.54:392][508]LogSavePackage: Moving output files for package: /Game/Road/Mesh/SM_Street
+[2026.07.09-04.36.54:392][508]LogSavePackage: Moving 'D:/UE_Projects/TestStreet/Street/Street/Saved/SM_Street785000D04CA0A87E825B818FA4E8719C.tmp' to 'D:/UE_Projects/TestStreet/Street/Street/Content/Road/Mesh/SM_Street.uasset'
+[2026.07.09-04.36.54:397][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.950 ms (total: 3:36 min)
+[2026.07.09-04.36.54:428][508]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.09-04.36.54:428][508]LogContentValidation: Enabled validators:
+[2026.07.09-04.36.54:428][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.09-04.36.54:428][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.09-04.36.54:428][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.09-04.36.54:428][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.09-04.36.54:428][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.09-04.36.54:428][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.09-04.36.54:428][508]AssetCheck: /Game/Road/Mesh/SM_Street Validating asset
+[2026.07.09-04.37.04:508][540]LogSlate: Window 'Message' being destroyed
+[2026.07.09-04.37.04:513][540]Message dialog closed, result: Yes, title: Message, text: Would you like to apply level of detail changes to SM_Street?
+
+(No will lose all changes!)
+[2026.07.09-04.37.04:521][540]LogStaticMesh: Display: Building static mesh SM_Street (Required Memory Estimate: 0.027584 MB)...
+[2026.07.09-04.37.04:521][540]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.07.09-04.37.04:521][540]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.07.09-04.37.04:521][540]LogStaticMesh: Leaves [0.00s]
+[2026.07.09-04.37.04:521][540]LogStaticMesh: Reduce [0.00s]
+[2026.07.09-04.37.04:521][540]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.07.09-04.37.04:521][540]LogStaticMesh: ConstrainClusters:
+[2026.07.09-04.37.04:521][540]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.07.09-04.37.04:521][540]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.07.09-04.37.04:521][540]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.07.09-04.37.04:522][540]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.07.09-04.37.04:522][540]LogStaticMesh: WritePages:
+[2026.07.09-04.37.04:522][540]LogStaticMesh:   Root: GPU size: 312 bytes. 1 Pages. 312.000 bytes per page (0.952% utilization).
+[2026.07.09-04.37.04:522][540]LogStaticMesh:   Streaming: 0 bytes.
+[2026.07.09-04.37.04:522][540]LogStaticMesh:   Page data disk size: 468 bytes. Fixup data size: 24 bytes.
+[2026.07.09-04.37.04:522][540]LogStaticMesh:   Total GPU size: 312 bytes, Total disk size: 492 bytes.
+[2026.07.09-04.37.04:522][540]LogStaticMesh: Encode [0.00s]
+[2026.07.09-04.37.04:522][540]LogStaticMesh: Nanite build [0.00s]
+
+[2026.07.09-04.37.04:524][540]LogStaticMesh: Built static mesh [0.01s] /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.37.04:659][540]LogSlate: Window 'SM_Street' being destroyed
+[2026.07.09-04.37.04:702][540]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.07.09-04.37.04:702][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.09-04.37.04:867][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.07.09-04.37.10:744][770]Cmd: DELETE
+[2026.07.09-04.37.10:744][770]Cmd: ACTOR DELETE
+[2026.07.09-04.37.10:752][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.07.09-04.37.10:775][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.07.09-04.37.10:777][770]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.07.09-04.37.12:640][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.37.12:640][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.37.12:641][842]LogActorFactory: Actor Factory spawned StaticMesh /Game/Road/Mesh/SM_Street.SM_Street as actor: StaticMeshActor /Game/Street/L_Road.L_Road:PersistentLevel.StaticMeshActor_1
+[2026.07.09-04.37.12:721][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.07.09-04.37.12:723][845]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2026.07.09-04.37.12:726][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.37.12:726][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.37.12:728][845]LogActorFactory: Actor Factory spawned StaticMesh /Game/Road/Mesh/SM_Street.SM_Street as actor: StaticMeshActor /Game/Street/L_Road.L_Road:PersistentLevel.StaticMeshActor_UAID_0250F3F6CAD47FEC02_1866862066
+[2026.07.09-04.37.17:718][ 43]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.07.09-04.37.17:725][ 43]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.07.09-04.37.20:002][120]LogSlate: Window 'UV: SM_Street' being destroyed
+[2026.07.09-04.37.20:011][120]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.07.09-04.37.20:011][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.09-04.37.20:011][120]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.07.09-04.37.20:011][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.09-04.37.20:052][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.07.09-04.37.27:000][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.09-04.37.27:059][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.07.09-04.37.27:069][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.07.09-04.37.27:080][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.07.09-04.37.27:081][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Street/L_Road/3/D7/XCSFT5MADWSMLWP4QN989Y
+[2026.07.09-04.37.27:081][398]LogSavePackage: Moving 'D:/UE_Projects/TestStreet/Street/Street/Saved/XCSFT5MADWSMLWP4QN989Y55D6D7604CCE7A241EF40AADE391F4FC.tmp' to 'D:/UE_Projects/TestStreet/Street/Street/Content/__ExternalActors__/Street/L_Road/3/D7/XCSFT5MADWSMLWP4QN989Y.uasset'
+[2026.07.09-04.37.27:089][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.316 ms (total: 3:36 min)
+[2026.07.09-04.37.27:129][398]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.09-04.37.27:130][398]LogContentValidation: Enabled validators:
+[2026.07.09-04.37.27:130][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.09-04.37.27:130][398]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.09-04.37.27:130][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.09-04.37.27:130][398]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.09-04.37.27:130][398]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.09-04.37.27:130][398]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.09-04.37.27:130][398]AssetCheck: /Game/Street/L_Road Validating asset
+[2026.07.09-04.37.32:511][596]LogSlate: External Image Picker: DecompressImage failed
+[2026.07.09-04.37.56:634][542]LogSlate: Window 'Project Settings' being destroyed
+[2026.07.09-04.37.56:637][542]LogSlate: Window 'Project Settings' being destroyed
