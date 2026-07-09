@@ -1512,3 +1512,290 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.09-04.02.17:522][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1390.324951
 [2026.07.09-04.02.17:971][234]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.07.09-04.02.17:971][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1390.750122, Update Interval: 315.471039
+[2026.07.09-04.04.46:192][159]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2026.07.09-04.04.46:192][159]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2026.07.09-04.05.51:941][764]LogSlate: Window 'Color Picker' being destroyed
+[2026.07.09-04.06.10:649][505]LogSlate: Window 'Color Picker' being destroyed
+[2026.07.09-04.07.50:912][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1723.721558
+[2026.07.09-04.07.51:140][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-04.07.51:140][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1723.923340, Update Interval: 336.713776
+[2026.07.09-04.09.49:226][208]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.07.09-04.09.49:231][208]LogContentBrowser: Creating deferred item: NewFolder
+[2026.07.09-04.09.49:249][209]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.07.09-04.09.53:820][392]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.07.09-04.09.53:820][392]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.07.09-04.10.24:354][603]LogContentBrowser: Attempting asset rename: NewFolder -> CPT_Testovoe
+[2026.07.09-04.10.24:354][603]LogContentBrowser: End creating deferred item NewFolder
+[2026.07.09-04.10.33:120][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.07.09-04.10.33:122][950]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Street/L_Road' took 0.013
+[2026.07.09-04.10.38:373][155]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.07.09-04.10.38:378][155]LogContentBrowser: Creating deferred item: NewFolder
+[2026.07.09-04.10.38:399][156]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.07.09-04.10.42:995][340]LogContentBrowser: Attempting asset rename: NewFolder -> Road
+[2026.07.09-04.10.42:995][340]LogContentBrowser: End creating deferred item NewFolder
+[2026.07.09-04.10.54:557][799]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.07.09-04.10.54:562][799]LogContentBrowser: Creating deferred item: NewFolder
+[2026.07.09-04.10.54:607][801]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.07.09-04.10.58:714][965]LogContentBrowser: Attempting asset rename: NewFolder -> Mesh
+[2026.07.09-04.10.58:714][965]LogContentBrowser: End creating deferred item NewFolder
+[2026.07.09-04.11.21:283][866]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.07.09-04.11.21:289][866]LogContentBrowser: Creating deferred item: NewFolder
+[2026.07.09-04.11.21:309][867]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.07.09-04.11.27:631][120]LogContentBrowser: Attempting asset rename: NewFolder -> Textured
+[2026.07.09-04.11.27:631][120]LogContentBrowser: End creating deferred item NewFolder
+[2026.07.09-04.11.33:610][358]LogContentBrowser: Attempting asset rename: Textured -> Texture
+[2026.07.09-04.14.05:282][379]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2098.092041
+[2026.07.09-04.14.05:508][388]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-04.14.05:508][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2098.293213, Update Interval: 319.539795
+[2026.07.09-04.14.26:758][234]LogStreaming: Display: FlushAsyncLoading(392): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.09-04.14.26:801][234]LogInterchangeEngine: Display: Interchange start importing source [D:/Docs/ТЗ Level Designer/CPT_Testovoe_LVLRoot/CPT_Testovoe_LVL/Road/Mesh/SM_Street.fbx]
+[2026.07.09-04.14.34:818][234]LogSlate: Window 'Import Content' being destroyed
+[2026.07.09-04.14.34:835][234]LogInterchangeEngine: [Pending] Importing
+[2026.07.09-04.14.34:913][235]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.09-04.14.34:947][236]LogStreaming: Display: FlushAsyncLoading(398): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.09-04.14.35:005][238]LogStaticMesh: Display: Building static mesh SM_Street (Required Memory Estimate: 0.027584 MB)...
+[2026.07.09-04.14.35:009][238]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.07.09-04.14.35:009][238]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.07.09-04.14.35:009][238]LogStaticMesh: Leaves [0.00s]
+[2026.07.09-04.14.35:011][238]LogStaticMesh: Reduce [0.00s]
+[2026.07.09-04.14.35:012][238]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.07.09-04.14.35:012][238]LogStaticMesh: ConstrainClusters:
+[2026.07.09-04.14.35:012][238]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.07.09-04.14.35:012][238]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.07.09-04.14.35:012][238]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.07.09-04.14.35:012][238]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.07.09-04.14.35:012][238]LogStaticMesh: WritePages:
+[2026.07.09-04.14.35:012][238]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.07.09-04.14.35:012][238]LogStaticMesh:   Streaming: 0 bytes.
+[2026.07.09-04.14.35:012][238]LogStaticMesh:   Page data disk size: 468 bytes. Fixup data size: 24 bytes.
+[2026.07.09-04.14.35:012][238]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 492 bytes.
+[2026.07.09-04.14.35:012][238]LogStaticMesh: Encode [0.00s]
+[2026.07.09-04.14.35:012][238]LogStaticMesh: Nanite build [0.01s]
+
+[2026.07.09-04.14.35:013][238]LogStaticMesh: Built static mesh [0.01s] /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.14.36:966][307]LogInterchangeEngine: Display: Interchange import completed [D:/Docs/ТЗ Level Des...stovoe_LVL/Road/Mesh/SM_Street.fbx]
+[2026.07.09-04.14.36:966][307]Interchange: Warning: [D:/Docs/ТЗ Level Designer/CPT_Testovoe_LVLRoot/CPT_Testovoe_LVL/Road/Mesh/SM_Street.fbx : 'SM_Street', StaticMesh] No smoothing group information was found for this mesh 'Mesh_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.07.09-04.14.36:986][307]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.07.09-04.14.36:986][307]LogInterchangeEngine: [Success] Import Done
+[2026.07.09-04.14.37:034][309]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.07.09-04.14.37:043][309]LogMaterial: Display: Material /Game/Road/Mesh/Roads_003.Roads_003 needed to have new flag set bUsedWithNanite !
+[2026.07.09-04.14.53:670][961]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.07.09-04.14.53:778][961]LogContentBrowser: Creating deferred item: NewFolder
+[2026.07.09-04.14.53:784][962]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.07.09-04.14.58:683][158]LogContentBrowser: Attempting asset rename: NewFolder -> Material
+[2026.07.09-04.14.58:684][158]LogContentBrowser: End creating deferred item NewFolder
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: ================================================
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Total job queries 184, among them cache hits 9 (4.89%), DDC hits 155 (84.24%), Duplicates 4 (2.17%)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Tracking 171 distinct input hashes that result in 157 distinct outputs (91.81%)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: RAM used: 123,32 KiB of 3,20 GiB budget. Usage: 0.00%
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Shaders Compiled: 16
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Average time worker was idle: 672.69 s
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Job execution time: average 1.44 s, max 2.64 s
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Job life time (pending + execution): average 1.50 s, max 2.73
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Shader code size: average 11,189 KiB, min 6,129 KiB, max 19,656 KiB
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.64 s
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Average processing rate: 1.85 jobs/sec
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Total thread time: 17,709 s
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Total thread preprocess time: 2,636 s
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Percentage time preprocessing: 14.88%
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Effective parallelization: 2.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.20 sec, max 2.20 sec, min 2.20 sec)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.17 sec, max 2.17 sec, min 2.17 sec)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.58 sec, max 1.77 sec, min 1.39 sec)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.39 sec, max 1.39 sec, min 1.39 sec)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.21 sec, max 1.89 sec, min 0.91 sec)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.24% of total time (compiled    4 times, average 1.21 sec, max 1.89 sec, min 0.91 sec)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 17.82% of total time (compiled    2 times, average 1.58 sec, max 1.77 sec, min 1.39 sec)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.18% of total time (compiled    5 times, average 0.54 sec, max 0.58 sec, min 0.49 sec)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 12.40% of total time (compiled    1 times, average 2.20 sec, max 2.20 sec, min 2.20 sec)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 12.25% of total time (compiled    1 times, average 2.17 sec, max 2.17 sec, min 2.17 sec)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: === Material stats ===
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Materials Translated:    131
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Material Translation Only: 0.03 s (42%)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: Material Cache Hits: 20 (15%)
+[2026.07.09-04.15.30:636][432]LogShaderCompilers: Display: ================================================
+[2026.07.09-04.15.31:391][462]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.15.31:486][462]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.07.09-04.15.31:538][462]LogStreaming: Display: FlushAsyncLoading(399): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.09-04.16.47:736][479]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2026.07.09-04.16.47:736][479]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2026.07.09-04.17.58:078][275]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.07.09-04.17.58:078][275]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: ================================================
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Total job queries 194, among them cache hits 9 (4.64%), DDC hits 163 (84.02%), Duplicates 4 (2.06%)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Tracking 181 distinct input hashes that result in 163 distinct outputs (90.06%)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: RAM used: 125,10 KiB of 3,20 GiB budget. Usage: 0.00%
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Shaders Compiled: 18
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Average time worker was idle: 560.16 s
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Job execution time: average 1.37 s, max 2.64 s
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Job life time (pending + execution): average 1.43 s, max 2.73
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Shader code size: average 10,723 KiB, min 6,129 KiB, max 19,656 KiB
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.51 s
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Average processing rate: 1.89 jobs/sec
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Total thread time: 18,722 s
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Total thread preprocess time: 2,791 s
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Percentage time preprocessing: 14.91%
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Effective parallelization: 1.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.20 sec, max 2.20 sec, min 2.20 sec)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.17 sec, max 2.17 sec, min 2.17 sec)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.58 sec, max 1.77 sec, min 1.39 sec)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.39 sec, max 1.39 sec, min 1.39 sec)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.21 sec, max 1.89 sec, min 0.91 sec)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 25.77% of total time (compiled    4 times, average 1.21 sec, max 1.89 sec, min 0.91 sec)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.77% of total time (compiled    7 times, average 0.53 sec, max 0.58 sec, min 0.49 sec)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 16.86% of total time (compiled    2 times, average 1.58 sec, max 1.77 sec, min 1.39 sec)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 11.72% of total time (compiled    1 times, average 2.20 sec, max 2.20 sec, min 2.20 sec)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 11.59% of total time (compiled    1 times, average 2.17 sec, max 2.17 sec, min 2.17 sec)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: === Material stats ===
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Materials Translated:    134
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Material Translation Only: 0.03 s (34%)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: Material Cache Hits: 20 (15%)
+[2026.07.09-04.18.30:658][571]LogShaderCompilers: Display: ================================================
+[2026.07.09-04.20.14:265][711]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2467.090088
+[2026.07.09-04.20.14:514][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-04.20.14:514][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2467.315186, Update Interval: 340.326538
+[2026.07.09-04.20.23:334][ 74]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2026.07.09-04.20.23:334][ 74]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2026.07.09-04.20.48:773][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.07.09-04.20.48:775][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Street/L_Road' took 0.027
+[2026.07.09-04.20.48:780][ 74]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Road/Mesh/Roads_003] ([1] browsable assets)...
+[2026.07.09-04.20.48:788][ 74]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Road/Mesh/Roads_003.Roads_003]
+[2026.07.09-04.20.48:788][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Road/Mesh/Roads_003]
+[2026.07.09-04.20.48:788][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Mesh/Roads_003" FILE="D:/UE_Projects/TestStreet/Street/Street/Saved/Autosaves/Game/Road/Mesh/Roads_003_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.07.09-04.20.48:791][ 74]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Road/Mesh/Roads_003_Auto1
+[2026.07.09-04.20.48:791][ 74]LogSavePackage: Moving 'D:/UE_Projects/TestStreet/Street/Street/Saved/Roads_003_Auto1283ABA39409243D6E23004B273DFD0C1.tmp' to 'D:/UE_Projects/TestStreet/Street/Street/Saved/Autosaves/Game/Road/Mesh/Roads_003_Auto1.uasset'
+[2026.07.09-04.20.48:791][ 74]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Road/Mesh/SM_Street] ([1] browsable assets)...
+[2026.07.09-04.20.48:800][ 74]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Road/Mesh/SM_Street.SM_Street]
+[2026.07.09-04.20.48:800][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Road/Mesh/SM_Street]
+[2026.07.09-04.20.48:800][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Mesh/SM_Street" FILE="D:/UE_Projects/TestStreet/Street/Street/Saved/Autosaves/Game/Road/Mesh/SM_Street_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.07.09-04.20.48:802][ 74]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Road/Mesh/SM_Street_Auto1
+[2026.07.09-04.20.48:802][ 74]LogSavePackage: Moving 'D:/UE_Projects/TestStreet/Street/Street/Saved/SM_Street_Auto11EA2017B402ABE1654F658920AD0BF43.tmp' to 'D:/UE_Projects/TestStreet/Street/Street/Saved/Autosaves/Game/Road/Mesh/SM_Street_Auto1.uasset'
+[2026.07.09-04.20.48:802][ 74]LogFileHelpers: Auto-saving content packages took 0.027
+[2026.07.09-04.23.57:090][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.09-04.23.57:149][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Road/Mesh/SM_Street] ([1] browsable assets)...
+[2026.07.09-04.23.57:149][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Road/Mesh/SM_Street]
+[2026.07.09-04.23.57:149][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Mesh/SM_Street" FILE="D:/UE_Projects/TestStreet/Street/Street/Content/Road/Mesh/SM_Street.uasset" SILENT=true
+[2026.07.09-04.23.57:155][599]LogSavePackage: Moving output files for package: /Game/Road/Mesh/SM_Street
+[2026.07.09-04.23.57:155][599]LogSavePackage: Moving 'D:/UE_Projects/TestStreet/Street/Street/Saved/SM_Street991D1CE84610F370EE3CE18266C4FB7A.tmp' to 'D:/UE_Projects/TestStreet/Street/Street/Content/Road/Mesh/SM_Street.uasset'
+[2026.07.09-04.23.57:162][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.339 ms (total: 3:35 min)
+[2026.07.09-04.23.57:208][599]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.09-04.23.57:208][599]LogContentValidation: Enabled validators:
+[2026.07.09-04.23.57:208][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.09-04.23.57:208][599]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.09-04.23.57:208][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.09-04.23.57:208][599]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.09-04.23.57:208][599]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.09-04.23.57:208][599]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.09-04.23.57:209][599]AssetCheck: /Game/Road/Mesh/SM_Street Validating asset
+[2026.07.09-04.24.30:840][921]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.09-04.24.39:829][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.24.39:830][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.24.39:831][259]LogActorFactory: Actor Factory spawned StaticMesh /Game/Road/Mesh/SM_Street.SM_Street as actor: StaticMeshActor /Game/Street/L_Road.L_Road:PersistentLevel.StaticMeshActor_0
+[2026.07.09-04.24.41:807][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.07.09-04.24.41:808][337]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.07.09-04.24.41:812][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.24.41:812][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.24.41:814][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/Road/Mesh/SM_Street.SM_Street as actor: StaticMeshActor /Game/Street/L_Road.L_Road:PersistentLevel.StaticMeshActor_UAID_0250F3F6CAD47FEC02_1115948065
+[2026.07.09-04.26.26:645][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2839.474365
+[2026.07.09-04.26.26:868][537]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-04.26.26:868][537]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2839.672852, Update Interval: 340.438232
+[2026.07.09-04.27.12:552][363]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.07.09-04.27.12:559][363]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.07.09-04.27.12:619][363]LogStreaming: Display: FlushAsyncLoading(406): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.09-04.27.12:787][363]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: ================================================
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Total job queries 208, among them cache hits 16 (7.69%), DDC hits 168 (80.77%), Duplicates 4 (1.92%)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Tracking 188 distinct input hashes that result in 170 distinct outputs (90.43%)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: RAM used: 127,74 KiB of 3,20 GiB budget. Usage: 0.00%
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Shaders Compiled: 20
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Average time worker was idle: 581.66 s
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Job execution time: average 1.33 s, max 2.64 s
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Job life time (pending + execution): average 1.39 s, max 2.73
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Shader code size: average 10,407 KiB, min 6,055 KiB, max 19,656 KiB
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.60 s
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Average processing rate: 1.89 jobs/sec
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Total thread time: 19,877 s
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Total thread preprocess time: 2,961 s
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Percentage time preprocessing: 14.90%
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Effective parallelization: 1.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.20 sec, max 2.20 sec, min 2.20 sec)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.17 sec, max 2.17 sec, min 2.17 sec)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.58 sec, max 1.77 sec, min 1.39 sec)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.39 sec, max 1.39 sec, min 1.39 sec)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.21 sec, max 1.89 sec, min 0.91 sec)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.43% of total time (compiled    9 times, average 0.54 sec, max 0.61 sec, min 0.49 sec)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.27% of total time (compiled    4 times, average 1.21 sec, max 1.89 sec, min 0.91 sec)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 15.88% of total time (compiled    2 times, average 1.58 sec, max 1.77 sec, min 1.39 sec)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 11.04% of total time (compiled    1 times, average 2.20 sec, max 2.20 sec, min 2.20 sec)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 10.92% of total time (compiled    1 times, average 2.17 sec, max 2.17 sec, min 2.17 sec)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: === Material stats ===
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Materials Translated:    144
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Material Translation Only: 0.03 s (35%)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: Material Cache Hits: 20 (14%)
+[2026.07.09-04.27.30:696][ 72]LogShaderCompilers: Display: ================================================
+[2026.07.09-04.30.51:765][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.07.09-04.30.51:773][ 77]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Street/L_Road/4/2N/BET8UCONO92ZQ16XZ803UQ_Auto2
+[2026.07.09-04.30.51:773][ 77]LogSavePackage: Moving 'D:/UE_Projects/TestStreet/Street/Street/Saved/BET8UCONO92ZQ16XZ803UQ_Auto2EB6FF11B4755D260BF52A995A3E12B82.tmp' to 'D:/UE_Projects/TestStreet/Street/Street/Saved/Autosaves/Game/__ExternalActors__/Street/L_Road/4/2N/BET8UCONO92ZQ16XZ803UQ_Auto2.uasset'
+[2026.07.09-04.30.51:773][ 77]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Street/L_Road' took 0.039
+[2026.07.09-04.30.51:773][ 77]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2026.07.09-04.32.46:763][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3219.486328
+[2026.07.09-04.32.46:988][656]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-04.32.46:988][657]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3219.687012, Update Interval: 353.104034
+[2026.07.09-04.34.41:108][210]LogStaticMesh: Display: Building static mesh SM_Street (Required Memory Estimate: 0.027584 MB)...
+[2026.07.09-04.34.41:108][210]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.07.09-04.34.41:108][210]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.07.09-04.34.41:108][210]LogStaticMesh: Leaves [0.00s]
+[2026.07.09-04.34.41:108][210]LogStaticMesh: Reduce [0.00s]
+[2026.07.09-04.34.41:108][210]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.07.09-04.34.41:108][210]LogStaticMesh: ConstrainClusters:
+[2026.07.09-04.34.41:108][210]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.07.09-04.34.41:108][210]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.07.09-04.34.41:108][210]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.07.09-04.34.41:108][210]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.07.09-04.34.41:108][210]LogStaticMesh: WritePages:
+[2026.07.09-04.34.41:108][210]LogStaticMesh:   Root: GPU size: 312 bytes. 1 Pages. 312.000 bytes per page (0.952% utilization).
+[2026.07.09-04.34.41:108][210]LogStaticMesh:   Streaming: 0 bytes.
+[2026.07.09-04.34.41:108][210]LogStaticMesh:   Page data disk size: 468 bytes. Fixup data size: 24 bytes.
+[2026.07.09-04.34.41:108][210]LogStaticMesh:   Total GPU size: 312 bytes, Total disk size: 492 bytes.
+[2026.07.09-04.34.41:108][210]LogStaticMesh: Encode [0.00s]
+[2026.07.09-04.34.41:108][210]LogStaticMesh: Nanite build [0.00s]
+
+[2026.07.09-04.34.41:109][210]LogStaticMesh: Built static mesh [0.00s] /Game/Road/Mesh/SM_Street.SM_Street
+[2026.07.09-04.34.43:900][319]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.07.09-04.34.43:900][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.09-04.34.43:900][319]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.07.09-04.34.43:900][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.09-04.34.43:932][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
